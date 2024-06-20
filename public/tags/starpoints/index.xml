@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>StarPoints on Westminster Astronomical Society</title>
+    <link>https://www.westminsterastro.org/tags/starpoints/</link>
+    <description>Recent content in StarPoints on Westminster Astronomical Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 02 Jun 2021 11:00:00 +0400</lastBuildDate>
+    <atom:link href="https://www.westminsterastro.org/tags/starpoints/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Star Points for June 2021</title>
+      <link>https://www.westminsterastro.org/blog/star_points_2021-06-02/</link>
+      <pubDate>Wed, 02 Jun 2021 11:00:00 +0400</pubDate>
+      <guid>https://www.westminsterastro.org/blog/star_points_2021-06-02/</guid>
+      <description>Partial Solar Eclipse at Sunrise June 10 You might want to start looking for those eclipse glasses you squirreled away from the great 2017 solar eclipse.</description>
+    </item>
+    <item>
+      <title>Star Points for May 2021</title>
+      <link>https://www.westminsterastro.org/blog/star_points_2021-05-04/</link>
+      <pubDate>Tue, 04 May 2021 11:00:00 +0400</pubDate>
+      <guid>https://www.westminsterastro.org/blog/star_points_2021-05-04/</guid>
+      <description>Up and Away Into the Wild Butterscotch Yonder Space art of the Martian surface from the 1950s and 1960s often depicted the planet with a beautiful blue Earth-like sky.</description>
+    </item>
+  </channel>
+</rss>

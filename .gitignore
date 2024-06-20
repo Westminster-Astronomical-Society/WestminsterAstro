@@ -1,0 +1,9 @@
+# vscode files
+.vscode
+
+# vim
+*.swp
+
+# hugo
+*.lock
+resources/_gen/

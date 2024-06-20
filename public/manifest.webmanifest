@@ -1,0 +1,54 @@
+{
+  "name": "Westminster Astronomical Society",
+  "short_name": "Westminster Astronomical Society",
+  "lang": "en-US",
+  "theme_color": "#655e7a",
+  "background_color": "#fff",
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  "icons": [
+    {
+      "src": "/images/favicon_hu8439524ae4c1adbcfc8f3259796f413f_23618_48x48_resize_box_3.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu8439524ae4c1adbcfc8f3259796f413f_23618_72x72_resize_box_3.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu8439524ae4c1adbcfc8f3259796f413f_23618_96x96_resize_box_3.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu8439524ae4c1adbcfc8f3259796f413f_23618_144x144_resize_box_3.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu8439524ae4c1adbcfc8f3259796f413f_23618_192x192_resize_box_3.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu8439524ae4c1adbcfc8f3259796f413f_23618_512x512_resize_box_3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  
+  
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Westminster Astronomical Society</title>
+    <link>https://www.westminsterastro.org/tags/</link>
+    <description>Recent content in Tags on Westminster Astronomical Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 02 Jun 2021 11:00:00 +0400</lastBuildDate>
+    <atom:link href="https://www.westminsterastro.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solar Eclipse</title>
+      <link>https://www.westminsterastro.org/tags/solar-eclipse/</link>
+      <pubDate>Wed, 02 Jun 2021 11:00:00 +0400</pubDate>
+      <guid>https://www.westminsterastro.org/tags/solar-eclipse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>StarPoints</title>
+      <link>https://www.westminsterastro.org/tags/starpoints/</link>
+      <pubDate>Wed, 02 Jun 2021 11:00:00 +0400</pubDate>
+      <guid>https://www.westminsterastro.org/tags/starpoints/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ingenuity</title>
+      <link>https://www.westminsterastro.org/tags/ingenuity/</link>
+      <pubDate>Tue, 04 May 2021 11:00:00 +0400</pubDate>
+      <guid>https://www.westminsterastro.org/tags/ingenuity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Perseverence</title>
+      <link>https://www.westminsterastro.org/tags/perseverence/</link>
+      <pubDate>Tue, 04 May 2021 11:00:00 +0400</pubDate>
+      <guid>https://www.westminsterastro.org/tags/perseverence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>How to</title>
+      <link>https://www.westminsterastro.org/tags/how-to/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
+      <guid>https://www.westminsterastro.org/tags/how-to/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>https://www.westminsterastro.org/tags/technology/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
+      <guid>https://www.westminsterastro.org/tags/technology/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
